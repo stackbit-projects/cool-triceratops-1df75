@@ -82,3 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://cool-triceratops-1df75.netlify.app'
